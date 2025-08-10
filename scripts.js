@@ -18,4 +18,4 @@ const clock = setInterval(function time() {
     hours.textContent = hr;
     minutes.textContent = min;
     seconds.textContent = sec;
-})
+} 1000);
