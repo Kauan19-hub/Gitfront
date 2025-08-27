@@ -6,7 +6,7 @@ Tem como objetivo de manter um setup básico para desenvolviento Front-End puro,
 
 ###
 
-**<h2>📁 Estrutura dos Diretórios</h2**
+**<h2>📁 Estrutura dos Diretórios</h2>**
 
 ###
 ```pgsql
